@@ -1,0 +1,5 @@
+{
+  "name": "PrintPrep",
+  "description": "Prepare and arrange photos for printing on standard paper sizes with crop marks and borders.",
+  "requestFramePermissions": []
+}
